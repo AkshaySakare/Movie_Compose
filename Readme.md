@@ -3,12 +3,12 @@
 A modern Android application that displays a collection of movies fetched from a remote API. Built with the latest Android technologies such as **Jetpack Compose**, **MVVM Architecture**, **Dagger Hilt**, **Retrofit**, **Room**, and **Paging 3**.
 
 <p align="center">
-  <img src="screenshots/home_screen.jpg" width="250" />
+  <img src="screenshots/home_screen.jpg" width="150" />
  
-  <img src="screenshots/detail_screen.jpg" width="250" />
+  <img src="screenshots/detail_screen.jpg" width="150" />
   
-  <img src="screenshots/search_screen.jpg" width="250" />
-  <img src="screenshots/screen3.jpg.jpg" width="250" />
+  <img src="screenshots/search_screen.jpg" width="150" />
+  <img src="screenshots/screen3.jpg" width="150" />
 </p>
 
 ---
