@@ -8,7 +8,7 @@ A modern Android application that displays a collection of movies fetched from a
   <img src="screenshots/detail_screen.jpg" width="250" />
   
   <img src="screenshots/search_screen.jpg" width="250" />
-  <img src="screenshots/screen3.jpg" width="250" />
+  <img src="screenshots/screen3.jpg.jpg" width="250" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ A modern Android application that displays a collection of movies fetched from a
 ## 🔧 Tech Stack
 
 | Technology        | Description                                      |
-------------------------------------------------------------------------
+|-------------------|--------------------------------------------------|
 | **Kotlin**         | Primary programming language                    |
 | **Jetpack Compose**| Declarative UI framework                        |
 | **MVVM**           | Architecture pattern (Model-View-ViewModel)     |
